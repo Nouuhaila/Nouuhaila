@@ -1,4 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nouuhaila&label=Profile%20views&color=0e75b6&style=flat" alt="nouuhaila" /> </p>
 <h1 align="center">Hi 👋, I'm Nouhaila AIT BELLA</h1>
 <h3 align="center">👩‍💻 I'm a passionate student diving into the fields of Data Science and Artificial Intelligence. I have a keen eye for detail and strive for excellence, always eager to take on new challenges.</h3>
 
