@@ -43,11 +43,6 @@ AI Engineer / Data Scientist • Machine Learning • Deep Learning • GenAI (N
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nouuhaila&show_icons=true&hide_title=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouuhaila" alt="streak" />
 </p>
