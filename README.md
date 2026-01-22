@@ -30,22 +30,6 @@ AI Engineer / Data Scientist • Machine Learning • Deep Learning • GenAI (N
 
 ---
 
-## 🚀 Projects to check
-- 📌 **3DObjectSegmentation-Dental_Smart**  
-  👉 https://github.com/Nouuhaila/3DObjectSegmentation-Dental_Smart
-
-- 📌 **Data Wrangling / Data Visualisation (Notebooks)**  
-  👉 https://github.com/Nouuhaila/data-wrangling  
-  👉 https://github.com/Nouuhaila/data-visualisation  
-
-- 📌 **Privacy / Anonymisation project**  
-  👉 https://github.com/Nouuhaila/Projet-anonymisation-reidentification-des-donnees-
-
-> If you want, I can also help you:  
-> ✅ write “project cards” (description + stack + results) for each repo, so recruiters understand fast.
-
----
-
 ## 🛠️ Tech Stack
 **AI / ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, ChromaDB  
 **Data:** Pandas, NumPy, SQL / NoSQL (PostgreSQL, MongoDB)  
